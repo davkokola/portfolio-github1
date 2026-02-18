@@ -258,6 +258,51 @@ footer{
         margin: 10px;
         padding: 20px;
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media screen and (max-width: 680px){
+
+    nav h1{
+        font-size: 28px;
+    }
+
+    .onglets{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .onglets a{
+        margin: 5px 0;
+    }
+
+    header{
+        padding: 20px;
+    }
+
+    .section1,
+    .section2{
+        margin: 10px;
+        padding: 20px;
+    }
 
     img{
         max-width: 100%;
@@ -268,4 +313,4 @@ img{
     margin: 20px;
     width: 300px;
     height: 200px;
-}
+}*/
